@@ -40,7 +40,7 @@ namespace LifeExpentencyApplication.BMI
         {
             if (_PersonBMI < MinBMI)
             {
-                return "You are terribly underweight";
+                return "You are  underweight , Please Note this affects your life Expetency as high as 10 years";
             } 
             else if (_PersonBMI > MinBMI) 
             {

@@ -10,7 +10,7 @@ namespace LifeExpentencyApplication
         public int PointEffects { get; set; }
         public Effects()
         {
-            defaultAge = 18;
+            defaultAge = 65;
         }
         public Effects(int pointincreasse, QuestionLogic question)
         {

@@ -27,5 +27,7 @@ namespace LifeExpentencyApplication
             Height = height;
             Gender = gender;
         }
+
+     
     }
 }
